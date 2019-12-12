@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1
 1
 12
+=======
+product qa
+>>>>>>> product
